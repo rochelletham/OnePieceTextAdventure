@@ -18,5 +18,7 @@ All commands and story text will be displayed in the console.
 4. Have fun and thanks for playing my game!!
 
 ## Here's a demo for a quick peek:
-<video src="OnePieceTextAdventure/OnePieceDemo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+
+https://user-images.githubusercontent.com/20667323/196892213-fd289e5b-dc60-40b2-8624-9caed69dee7d.mp4
+
