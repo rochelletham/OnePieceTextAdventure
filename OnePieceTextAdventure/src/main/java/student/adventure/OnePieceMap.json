@@ -1,0 +1,316 @@
+{
+  "startingRoom": "East Blue: Dawn Island",
+  "endingRoom": "Sabaody Archipelago",
+  "rooms": [
+    {
+      "name": "East Blue: Dawn Island",
+      "description": "Welcome back Luffy! You are in East Blue on Dawn Island. Get ready to start your adventure to the Grand Line!",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Southwest",
+          "room": "Shells Town"
+        },
+        {
+          "directionName": "East",
+          "room": "Gecko Islands"
+        },
+        {
+          "directionName": "South",
+          "room": "Polestar Islands: Loguetown"
+        },
+        {
+          "directionName": "North",
+          "room": "Baratie"
+        },
+        {
+          "directionName": "West",
+          "room": "Conomi Islands"
+        }
+      ]
+    },
+    {
+      "name": "Polestar Islands: Loguetown",
+      "description": "You've arrived in the legendary town, Loguetown -- the island all pirates stop at before entering the Grand Line.\nAs you gather materials for your journey, Pirate Buggy captures you and is about to execute you!! Miraculously, lightning strikes and you are freed.",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "South",
+          "room": "Calm Belt"
+        }
+      ]
+    },
+    {
+      "name": "Shells Town",
+      "description": "You meet a green-haired swordsman named Zoro who is about to be executed.\nAsking what Zoro's dream is, he answers you, 'To become the world's greatest swordsman!'\nYou decide to save him from his execution and make him join your crew! Congrats, you now have a swordsman.",
+      "character": "Zoro",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "East",
+          "room": "Polestar Islands: Loguetown"
+        },
+        {
+          "directionName": "Northwest",
+          "room": "East Blue: Dawn Island"
+        }
+      ]
+    },
+    {
+      "name": "Gecko Islands",
+      "description": "Stopping by at this archipelago, you arrive at Syrup Village.\nYou meet a brave, adventurous wannabe-pirate named Ussop and he declares himself as a member of your crew.\nCongrats! You now have a sniper in your crew.\nThanks to Ussop's friend, you also now have a ship called the Going Merry.",
+      "character": "Ussop",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "East",
+          "room": "Polestar Islands: Loguetown"
+        }
+      ]
+    },
+    {
+      "name": "Conomi Islands",
+      "description": "You visit a town named Cocoyasi Village and notice that it's destroyed and ruined by Pirate Arlong.\nDeciding to help the villagers, you fight against Arlong and free the village from under his reign.\nMoved by your courage, one of the villagers, Nami, decides to join your crew as a navigator!",
+      "character": "Nami",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Southeast",
+          "room": "Polestar Islands: Loguetown"
+        },
+        {
+          "directionName": "East",
+          "room": "East Blue: Dawn Island"
+        }
+      ]
+    },
+    {
+      "name": "Baratie",
+      "description": "Upon arrival at the ocean-going restaurant, Baratie, you accidentally destroyed half the ship.\nRestaurant Owner Zef makes you compensate by working as a waiter. In other news, a new member has joined your crew -- Sanji the cook!",
+      "character": "Sanji",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "East",
+          "room": "East Blue: Dawn Island"
+        }
+      ]
+    },
+    {
+      "name": "Calm Belt",
+      "description": "Beware of the giant sea monsters ready to devour the Going Merry!! Hurry to the Twin Cape!",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "Twin Cape: Reverse Mountain"
+        }
+      ]
+    },
+    {
+      "name": "Twin Cape: Reverse Mountain",
+      "description": "You meet a wholesome, giant, shy whale named Laboon. Promising you'll see Laboon again after your journey, your crew prepares to go up the Red Mountain to the Grand Line.",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "FORWARD!!",
+          "room": "Top of Reverse Mountain and into the Grand Line!"
+        }
+      ]
+    },
+    {
+      "name": "Top of Reverse Mountain and into the Grand Line!",
+      "description": "You've reached the Grand Line! Your journey has just started :)",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "Cactus Island (Whisky Peak)"
+        },
+        {
+          "directionName": "Northeast",
+          "room": "Drum Island, sea level"
+        }
+      ]
+    },
+    {
+      "name": "Cactus Island (Whisky Peak)",
+      "description": "Your crew celebrates for safely arriving into the Grand Line! \nCactus Island has several rock mountains shaped like giant cacti. A truly fitting name.\nYour crew meets a kind-hearted princess named Vivi, who hopes to save her country from a civil war. Will you let Princess Vivi join your crew?",
+      "character": "Princess Vivi",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "North",
+          "room": "Little Garden"
+        },
+        {
+          "directionName": "Northeast",
+          "room": "Drum Island, sea level"
+        }
+      ]
+    },
+    {
+      "name": "Little Garden",
+      "description": "Because of the extreme climate at this island, dinosaurs live here!! You also meet the Giants of Elbaf, Dorry and Brogy, who have dueled on the island for 100 years!",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "West",
+          "room": "Sandy Island"
+        }
+      ]
+    },
+    {
+      "name": "Drum Island, sea level",
+      "description": "This beautiful island is covered with snow all year round! As you look up into the sky, you see petals from the island's tallest sakura tree soar down, carried by the snowy wind.\nAlso, a cute, gentle, little taking reindeer named Chopper asks to join your crew as the doctor.",
+      "character": "Chopper",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Up",
+          "room": "Drum Island's Sakura Tree"
+        },
+        {
+          "directionName": "West",
+          "room": "Sandy Island"
+        }
+      ]
+    },
+    {
+      "name": "Sakura Tree",
+      "description": "What a beautiful tree. Maybe one day you'll come back to this tree after you've finished your journey.",
+      "character": "",
+      "item": ["flower petals"],
+      "directions": [
+        {
+          "directionName": "Down",
+          "room": "Drum Island, sea level"
+        }
+      ]
+    },
+    {
+      "name": "Sandy Island",
+      "description": "Upon arrival, your crew finds that the Kingdom of Arabasta has fallen to a civil war led by Pirate Crocodile!\nYour crew decides to help the citizens fight and restore peace to the country. Princess Vivi of Arabasta is grateful for your help.\nAlso, an archaeologist named Robin decides to join your crew!",
+      "character": "Robin",
+      "item": ["unlimited bottles of sand"],
+      "directions": [
+        {
+          "directionName": "East",
+          "room": "Jaya -- Mock Town"
+        }
+      ]
+    },
+    {
+      "name": "Jaya -- Mock Town",
+      "description": "Ready to discover the island in the sky -- sky island -- you ask a bartender in Jaya how to get there.\nHowever, you and your crew are laughed at like fools and beat up. They mock your dreams and ambitions...\nEven so, your crew is determined to get to the sky island.",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Up",
+          "room": "Sky Island"
+        }
+      ]
+    },
+    {
+      "name": "Sky Island",
+      "description": "Welcome to the sky island -- also known as Skypeia! Unbeknownst to people of the Blue Sea (people at sea level), \nthere are people who live in Skypeia. They are people with small white wings on their backs just like angels!\nThe skypeia people introduce you to dials -- mysterious devices made of a type of \nshellfish's remains and stores energy and matter. Each dial has a unique property or use.\nYou can take as many dials as you want! They are all over the skybeach.",
+      "character": "",
+      "item": [
+        "flame dial",
+        "breath dial",
+        "impact dial",
+        "flash dial",
+        "eisen dial"
+      ],
+      "directions": [
+        {
+          "directionName": "Down back to sea and Northwest",
+          "room": "Long Ring Long Land"
+        },
+        {
+          "directionName": "Down back to sea and South",
+          "room": "Water 7"
+        }
+      ]
+    },
+    {
+      "name": "Long Ring Long Land",
+      "description": "Everything on this archipelago is looooong. It's a chain of ten islands in a ring shape!\nYour crew meets a cute looooong sausauge doggo named Daaachshund and an eight-foot tall bear who walks like a human.\nYou want to take Daaachshund with you but your ship is too small for the doggo to board.",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Southeast",
+          "room": "Water 7"
+        }
+      ]
+    },
+    {
+      "name": "Water 7",
+      "description": "Welcome to the island known for its bright shipwrights! You ask the shipwrights to repair your ship, the Going Merry, but they say it's too late..\nthe ship is beyond repair. Franky, a notorious shipwright initially steals all your money but is moved by your resolve to continue your journey.\nFranky decides to join your crew as the shipwright! \n\nSuddenly, your crewmate, Robin, is kidnapped by the World Government secret agents, CP9!\nShe's going to be imprisoned at Enies Lobby!!",
+      "character": "Franky",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Southeast",
+          "room": "Enies Lobby"
+        }
+      ]
+    },
+    {
+      "name": "Enies Lobby",
+      "description": "You've finally reached the prison's front gate. Robin is crying for your help! Save Robin!!",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "BREAK INSIDE Enies Lobby!!",
+          "room": "Inside Enies Lobby!"
+        }
+      ]
+    },
+    {
+      "name": "Inside Enies Lobby!",
+      "description": "After many tough battles, your crew successfully saves Robin and escapes from Enies Lobby. Time to continue the journey!",
+      "character": "",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "Southeast",
+          "room": "Thriller Bark"
+        },
+        {
+          "directionName": "Southwest",
+          "room": "Sabaody Archipelago"
+        }
+      ]
+    },
+    {
+      "name": "Thriller Bark",
+      "description": "This dark, haunting island is ruled by Pirate Gecko Maria..You see a zombie climb his way out of the ground \n but unfazed, you just push him back into the ground infront of his tombstone.\nDuring your time at the island, you meet a talking skeleton and decide to let him join your crew!\nYou now have a skeleton musician named Brook! He gratefully thanks you!! Yohohoho!",
+      "character": "Brook",
+      "item": [],
+      "directions": [
+        {
+          "directionName": "West",
+          "room": "Sabaody Archipelago"
+        }
+      ]
+    },
+    {
+      "name": "Sabaody Archipelago",
+      "description": "You've reached the midway point in the Grand Line!\nTo Be Continued B-)",
+      "character":"",
+      "item":[],
+      "directions": [
+      ]
+    }
+  ]
+}
